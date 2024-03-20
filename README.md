@@ -1,1 +1,2 @@
 # Contacts-Directory-project
+<p>This phone directory implementation includes features such as contact creation, searching based on a key, call history tracking, call history deletion, and the ability to store all contacts in a file for backup. Leveraging data structures like linked lists and stacks enhances the efficiency of the system, ensuring organized and accessible management of contact information.</p>
